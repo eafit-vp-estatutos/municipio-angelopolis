@@ -1,2 +1,3 @@
-# municipio-angelopolis
-Sitio web oficial del municipio de Angelópolis, Departamento
+# Angelópolis
+
+Proyecto de generación y análisis del Estatuto Tributario Local para Angelópolis.
